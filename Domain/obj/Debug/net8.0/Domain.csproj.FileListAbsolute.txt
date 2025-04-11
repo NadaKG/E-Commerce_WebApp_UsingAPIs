@@ -1,0 +1,90 @@
+D:\ITI\Graduation Project\E-Commerce\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ITI\Graduation Project\E-Commerce\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\ITI\Graduation Project\E-Commerce\Domain\bin\Debug\net8.0\Domain.dll
+D:\ITI\Graduation Project\E-Commerce\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.dll
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\ITI\Graduation Project\E-Commerce\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\gradutation\E-Commerce\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\gradutation\E-Commerce\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+F:\gradutation\E-Commerce\Domain\bin\Debug\net8.0\Domain.dll
+F:\gradutation\E-Commerce\Domain\bin\Debug\net8.0\Domain.pdb
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.dll
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.pdb
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+F:\gradutation\E-Commerce\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\DELL\Downloads\E-Commerce\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\DELL\Downloads\E-Commerce\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\DELL\Downloads\E-Commerce\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\DELL\Downloads\E-Commerce\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\DELL\Downloads\E-Commerce\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\E-Commerce\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\E-Commerce\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\E-Commerce\Domain\bin\Debug\net8.0\Domain.dll
+D:\E-Commerce\Domain\bin\Debug\net8.0\Domain.pdb
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.dll
+D:\E-Commerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.pdb
+D:\E-Commerce\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\E-Commerce\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\4\E-Commerce\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\4\E-Commerce\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\4\E-Commerce\Domain\bin\Debug\net8.0\Domain.dll
+D:\4\E-Commerce\Domain\bin\Debug\net8.0\Domain.pdb
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.dll
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.pdb
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\4\E-Commerce\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\E-Commerce\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\E-Commerce\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+E:\E-Commerce\Domain\bin\Debug\net8.0\Domain.dll
+E:\E-Commerce\Domain\bin\Debug\net8.0\Domain.pdb
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.dll
+E:\E-Commerce\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.pdb
+E:\E-Commerce\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+E:\E-Commerce\Domain\obj\Debug\net8.0\ref\Domain.dll

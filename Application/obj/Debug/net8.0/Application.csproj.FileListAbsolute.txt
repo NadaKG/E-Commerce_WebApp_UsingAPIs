@@ -1,0 +1,120 @@
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Application.deps.json
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Application.dll
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Application.pdb
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Domain.dll
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.dll
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Domain.pdb
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.pdb
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.dll
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\refint\Application.dll
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.pdb
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\ref\Application.dll
+D:\ITI\Graduation Project\E-Commerce\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\ITI\Graduation Project\E-Commerce\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Application.deps.json
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Application.dll
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Application.pdb
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Domain.dll
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.dll
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Domain.pdb
+F:\gradutation\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.pdb
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.dll
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\refint\Application.dll
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.pdb
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+F:\gradutation\E-Commerce\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Application.dll
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.dll
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\DELL\Downloads\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.pdb
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.dll
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\DELL\Downloads\E-Commerce\Application\obj\Debug\net8.0\ref\Application.dll
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.dll
+D:\E-Commerce\Application\obj\Debug\net8.0\refint\Application.dll
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.pdb
+D:\E-Commerce\Application\bin\Debug\net8.0\Application.deps.json
+D:\E-Commerce\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\E-Commerce\Application\bin\Debug\net8.0\Application.dll
+D:\E-Commerce\Application\bin\Debug\net8.0\Application.pdb
+D:\E-Commerce\Application\bin\Debug\net8.0\Domain.dll
+D:\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.dll
+D:\E-Commerce\Application\bin\Debug\net8.0\Domain.pdb
+D:\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.pdb
+D:\E-Commerce\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\E-Commerce\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\E-Commerce\Application\obj\Debug\net8.0\ref\Application.dll
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Application.deps.json
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Application.dll
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Application.pdb
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Domain.dll
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.dll
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Domain.pdb
+D:\4\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.pdb
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.dll
+D:\4\E-Commerce\Application\obj\Debug\net8.0\refint\Application.dll
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.pdb
+D:\4\E-Commerce\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\4\E-Commerce\Application\obj\Debug\net8.0\ref\Application.dll
+E:\E-Commerce\Application\bin\Debug\net8.0\Application.deps.json
+E:\E-Commerce\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+E:\E-Commerce\Application\bin\Debug\net8.0\Application.dll
+E:\E-Commerce\Application\bin\Debug\net8.0\Application.pdb
+E:\E-Commerce\Application\bin\Debug\net8.0\Domain.dll
+E:\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.dll
+E:\E-Commerce\Application\bin\Debug\net8.0\Domain.pdb
+E:\E-Commerce\Application\bin\Debug\net8.0\Infra.Data.pdb
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.sourcelink.json
+E:\E-Commerce\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.dll
+E:\E-Commerce\Application\obj\Debug\net8.0\refint\Application.dll
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.pdb
+E:\E-Commerce\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+E:\E-Commerce\Application\obj\Debug\net8.0\ref\Application.dll
